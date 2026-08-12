@@ -59,9 +59,8 @@ loan-default-early-warning/
 `-- reports/                 # metrics.json, segment_lift.csv
 ```
 
-Data is fully synthetic and generated locally. No proprietary or vendor data is used.
 
-## Sample run
+## Output
 
 ~~~
 rows_total                      : 40000
