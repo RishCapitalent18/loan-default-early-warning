@@ -1,0 +1,15 @@
+{
+  "rows_total": 40000,
+  "records_rescued_by_repair": 6753,
+  "records_rescued_pct": 16.88,
+  "test_loans": 9878,
+  "test_default_rate": 0.1606,
+  "roc_auc": 0.7878,
+  "pr_auc": 0.436,
+  "capture_top_decile_pct": 31.53,
+  "capture_top_two_deciles_pct": 51.58,
+  "review_top20_precision": 0.4142,
+  "review_top20_recall": 0.5158,
+  "rules_baseline_recall": 0.5322,
+  "rules_baseline_precision": 0.3269
+}
